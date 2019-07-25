@@ -1,2 +1,2 @@
-# test
-This repo is meant to be for test and experiment purpose, all data is dummy. 
+# html-website-template
+This repo is meant to create "Minimal test cases" and report to upstream in case of error.
