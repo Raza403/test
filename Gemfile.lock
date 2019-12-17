@@ -114,6 +114,3 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   lightning_sites (>= 1.4.4)
-
-BUNDLED WITH
-   2.0.2
